@@ -1,10 +1,6 @@
 # Excel-
 
-# output!
-
-![Uploading Capture.PNG…]()
-
-[all](https://github.com/Abhijogu3/Excel-/assets/158252850/0a40059c-8238-4709-98e3-2f7d84e6db9f)
+# output! ![Uploading image.png…]()
 
 ![1](https://github.com/Abhijogu3/Excel-/assets/158252850/3a8f185d-c242-43e6-9760-730620a3992d)
 [Capture](https://github.com/Abhijogu3/Excel-/assets/158252850/424326ee-919c-4a74-9d1e-8e7e3cb714ea)
