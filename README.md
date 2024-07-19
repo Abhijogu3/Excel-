@@ -1,4 +1,6 @@
-# Excel-
+# Excel-Data-analytics
+
+Data is a precious and irreplaceable asset of all the enterprises, irrespective of its size. The need of the hour is to understand, manage, process, and take the data for analysis to draw valuable insights. Digital data can be structured, semi-structured or unstructured data.
 
 
 ![Capture](https://github.com/Abhijogu3/Excel-/assets/158252850/89b2be30-3dfd-4fe5-94ae-94c6c5d9bba8)
